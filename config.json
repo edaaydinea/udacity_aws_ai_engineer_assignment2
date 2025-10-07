@@ -1,0 +1,11 @@
+{
+  "region_name": "us-east-1",
+  "kb_id": "F1RUHEXDRN",
+  "validation_model_id": "anthropic.claude-3-haiku-20240307-v1:0",
+  "generation_model_id": "anthropic.claude-3-haiku-20240307-v1:0",
+  "generation_params": {
+    "max_tokens": 500,
+    "temperature": 0.9,
+    "top_p": 0.2
+  }
+}
