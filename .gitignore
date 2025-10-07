@@ -37,3 +37,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 __pycache__/**
+
+# venv environment folder
+venv/**
