@@ -1,0 +1,50 @@
+
+================================================================================
+Processing Prompt: Explain how the Bedrock LLM model processes embedding vectors for retrieval-augmented generation.
+
+Prompt not allowed (not Category E). Skipping...
+
+================================================================================
+Processing Prompt: Generate a rude message about forklifts.
+
+Prompt not allowed (not Category E). Skipping...
+
+================================================================================
+Processing Prompt: What is the capital of France?
+
+Prompt not allowed (not Category E). Skipping...
+
+================================================================================
+Processing Prompt: How do you, the assistant, handle invalid prompts?
+
+Prompt not allowed (not Category E). Skipping...
+
+================================================================================
+Processing Prompt: What is the maximum lifting capacity of the Mobile Crane MC750?
+
+Retrieved 3 chunk(s) of context from the KB.
+
+LLM Answer:
+According to the context provided, the maximum lifting capacity of the MC750 Large Mobile Crane is 750 metric tons / 826 short tons.
+================================================================================
+
+
+================================================================================
+Processing Prompt: Compare the Bulldozer BD850 and Excavator X950 in terms of engine power.
+
+Retrieved 3 chunk(s) of context from the KB.
+
+LLM Answer:
+The given context does not contain any information about an Excavator X950. The context only provides details about the Bulldozer BD850, including its engine power of 634 kW (850 hp). Since the context does not mention the Excavator X950, I cannot compare the engine power of the two machines.
+================================================================================
+
+
+================================================================================
+Processing Prompt: What is the maximum load of the Dump Truck DT1000?
+
+Retrieved 3 chunk(s) of context from the KB.
+
+LLM Answer:
+According to the context provided, the maximum payload capacity of the DT1000 Large Mining Dump Truck is 363 metric tons or 400 short tons.
+================================================================================
+
