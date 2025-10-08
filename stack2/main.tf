@@ -17,6 +17,6 @@ module "bedrock_kb" {
   aurora_text_field = "chunks"
   aurora_verctor_field = "embedding"
   aurora_username   = "dbadmin"
-  aurora_secret_arn = "arn:aws:secretsmanager:us-east-1:606710963608:secret:my-aurora-serverless-13s9j8"
+  aurora_secret_arn = "arn:aws:secretsmanager:us-east-1:606710963608:secret:my-aurora-serverless-51wd7i"
   s3_bucket_arn = "arn:aws:s3:::bedrock-kb-606710963608"
 }
